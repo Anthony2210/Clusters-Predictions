@@ -1,6 +1,6 @@
 ## Description du projet
 
-Ce projet combine deux approches d'apprentissage automatique : l'apprentissage non supervisé pour l'analyse de clusters et l'apprentissage supervisé pour la prédiction de buts en football. Il a été réalisé dans le cadre du cours Science des Données 1 à l'Université Paul Valéry Montpellier III.
+Ce projet combine deux approches d'apprentissage automatique : l'apprentissage non supervisé pour l'analyse de clusters et l'apprentissage supervisé pour la prédiction de buts en football. Il a été réalisé dans le cadre du cours Science des Données 1 à l'Université Paul Valéry Montpellier III, avec le logiciel Orange Data Mining.
 
 ## Auteurs :
 
